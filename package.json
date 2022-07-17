@@ -1,8 +1,8 @@
 {
   "name": "nft-marketplace",
   "version": "0.1.0",
-  "description": "An NFT Marketplace",
-  "author": "clarionnorth@gmail.com",
+  "description": "Experimental NFT Marketplace",
+  "author": "danielcostahk@gmail.com",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
     "@truffle/contract":"^4.5.15",
